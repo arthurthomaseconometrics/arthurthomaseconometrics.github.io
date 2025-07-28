@@ -11,7 +11,11 @@ redirect_from:
 About me
 ======
 
- I am an Assistant Professor of Econometrics at [University Paris Dauphine - PSL](https://leda.dauphine.fr). I am also an adjunct researcher at the [Chair of Climate Economics](https://www.chaireeconomieduclimat.org). In the calendar year 2024 I was additionally be a visiting professor at the Department of Quantitative Economics at Maastricht University, School of Business and Economics, and at the Department of Economics  at York University, Toronto. I work on theoretical and applied econometrics related to climate change and energy. My main research areas are time series econometrics (non-causal econometrics) and machine learning. I organised the [Dauphine Econometrics seminar](https://leda.dauphine.fr/fr/seminaire-externe/seminaires-thematiques.html).
+ I am an Assistant Professor of Econometrics at [University Paris Dauphine - PSL](https://leda.dauphine.fr). I am also an adjunct researcher at the [Chair of Climate Economics](https://www.chaireeconomieduclimat.org). In the calendar year 2024 I was additionally be a visiting professor at the Department of Quantitative Economics at Maastricht University, School of Business and Economics, and at the Department of Economics  at York University, Toronto. I work on theoretical and applied econometrics related to climate change and energy. My main research areas are time series econometrics (noncausal econometrics) and machine learning. 
+ 
+ In 2025, I organised the 1st International Noncausal Econometrics workshop. This workshop was held on June 13th and 14th 2025 in Paris. Co-organized with the University of Orléans and University Paris II Panthéon-Assas.[Program](https://ncworkshop.sciencesconf.org/data/pages/1st_Workshop_on_Noncausal_Econometrics_Program.pdf)
+
+ Frome 2023 to 2025, I also organised the [Dauphine Econometrics seminar](https://leda.dauphine.fr/fr/seminaire-externe/seminaires-thematiques.html)and the regular [Dauphine seminar](https://leda.dauphine.fr/fr/seminaire-externe/seminaire-leda.html). 
 
 
 Employment
