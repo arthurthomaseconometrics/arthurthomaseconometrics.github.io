@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "PhD Students"
+title: ""
 permalink: /phdstudents/
 author_profile: true
 ---
 
-PHD STUDENTS
+Phd Supervisor
 =====
 
 
@@ -15,4 +15,9 @@ PHD STUDENTS
 
 2023 –  **Marie Bruguet**, PhD student at Dauphine, co-supervised with A. Creti, “Measuring and evaluating sufficiency and efficiency in French residential energy consumption”, COFRA funded by the French Ministry of Ecological Transition. [website](https://mbruguet.github.io)
 
+Member of PhD committees
+=====
 
+2025 	Peter MacKenzie (York University, Toronto), Bridging the digital divide and mitigating cyber security risks in Canada.
+
+2023	Francesco Giancaterini (Maastricht University ), Essays on Univariate and Multivariate Noncausal Processes.
