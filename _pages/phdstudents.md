@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "PhD Students"
 permalink: /phdstudents/
 author_profile: true
 ---
