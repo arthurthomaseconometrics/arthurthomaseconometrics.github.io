@@ -9,7 +9,7 @@ Publications
 =====
 
 
-Bruguet, M., Thomas, A., & Le Saout, R. (2025). Weather Effects in Energy Seasonal Adjustment : An Application to France Energy Consumption *The Energy Journal, 0(0).* <a href="/files/BTL2025_revised.pdf" download="BTL2025_revised.pdf">[paper]</a> [Published version](https://journals.sagepub.com/doi/10.1177/01956574251330845)  
+Bruguet, M., Thomas, A., & Le Saout, R. (2025). Weather Effects in Energy Seasonal Adjustment : An Application to France Energy Consumption *The Energy Journal, vol. 46, n°5* <a href="/files/BTL2025_revised.pdf" download="BTL2025_revised.pdf">[paper]</a> [Published version](https://journals.sagepub.com/doi/10.1177/01956574251330845)  
 
 
 Bardon P., Massol O., Thomas A. (2025). [Greening Aviation with Sustainable Aviation Fuels: Insights from decarbonization scenarios.](https://www.sciencedirect.com/science/article/pii/S0301479724039306) Journal of Environmental Management, vol. 374.
@@ -25,6 +25,7 @@ Working papers
 
 **Non causal econometrics**
 
+Gilles De Truchis, Arthur Thomas (2025) Laurent series expansion for MA($\infty$) representation of mixed causal-noncausal autoregressive processes. 
 
 Gilles De Truchis, Fries Sébastien, Arthur Thomas (2025). Forecasting extreme trajectories using semi-norm
 representations. <a href="/files/DFT_2025.pdf" download="DFT_2025.pdf">
@@ -64,6 +65,7 @@ Ongoing works
 =====
 
 Olivier Massol, Eduardo S. Marques, Arthur Thomas (2025). Disentangling Drivers of EU Allowance Prices: A Mixed Causal and Non-Causal Time Series Approach. 
+
 
 Gilles De Truchis, Arthur Thomas, Ludivine Vaudree (2025), Deconvolution and Filtering of Non-Causal Alpha-Stable Processes.
 
