@@ -42,7 +42,7 @@ Gilles De Truchis Fries Sébastien, Arthur Thomas (2025). Prediction of bubbles 
 Gilles De Truchis, Elena Dumitrescu, Sébastien Fries, Arthur Thomas (2024). Bet on a bubble asset? An optimal portfolio allocation strategy (2024). <a href="/files/DDFT_2024.pdf" download="DDFT_2024.pdf">
   [paper]
 </a> <a href="/files/Appendix_DDFT_2024.pdf" download="Appendix_DDFT_2024.pdf">
-  [Web-Appendix]
+  [web-appendix]
 </a>
 
 Zakaria Moussa, Arthur Thomas (2023). [Identifying Oil Supply News Shocks and Their Effects on the Global Oil Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3812529#), USAEE Working Paper No. 21-490, Jun. 26, 2023.
