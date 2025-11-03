@@ -9,7 +9,7 @@ Publications
 =====
 
 
-Bruguet, M., Thomas, A., & Le Saout, R. (2025). Weather Effects in Energy Seasonal Adjustment : An Application to France Energy Consumption *The Energy Journal, vol. 46, n°5* <a href="/files/BTL2025_revised.pdf" download="BTL2025_revised.pdf">[paper]</a> [Published version](https://journals.sagepub.com/doi/10.1177/01956574251330845)  
+Bruguet, M., Thomas, A., & Le Saout, R. (2025). [Weather Effects in Energy Seasonal Adjustment : An Application to France Energy Consumption](https://journals.sagepub.com/doi/10.1177/01956574251330845) The Energy Journal, vol. 46, n°5
 
 
 Bardon P., Massol O., Thomas A. (2025). [Greening Aviation with Sustainable Aviation Fuels: Insights from decarbonization scenarios.](https://www.sciencedirect.com/science/article/pii/S0301479724039306) Journal of Environmental Management, vol. 374.
