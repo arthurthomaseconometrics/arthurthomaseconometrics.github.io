@@ -26,8 +26,8 @@ Working papers
 **Non causal econometrics**
 
 Gilles De Truchis, Arthur Thomas (2025) Laurent series expansion for MA($\infty$) representation of mixed causal-noncausal autoregressive processes. <a href="/files/WP2025_06.pdf" download="WP2025_06.pdf">
-  [Working Paper]
-</a>
+  [Working Paper]</a>  Revise and resubmit at *Journal of Time Series Analysis*
+
 
 Gilles De Truchis, Fries Sébastien, Arthur Thomas (2025). Forecasting extreme trajectories using semi-norm
 representations. <a href="/files/DFT_2025_WP_LEDa.pdf" download="DFT_2025_WP_LEDa.pdf">
