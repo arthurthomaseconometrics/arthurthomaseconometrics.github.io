@@ -58,7 +58,7 @@ Ilya Archakov, Yannick Le Pen, Zakaria Moussa, Arthur Thomas (2024). Regime Swit
 **Energy Economics**
 
 
-Olivier Massol, Eduard Civel, Arthur Thomas (2025). Unfair Trade in the Circular Economy? Price Dynamics in Chinese and European Waste to Biofuel Industries (2025). [Working paper](https://www.chaireeconomieduclimat.org/wp-content/uploads/2025/05/WP-2025-12.pdf)*Submitted*
+Olivier Massol, Eduard Civel, Arthur Thomas (2025). Unfair Trade in the Circular Economy? Price Dynamics in Chinese and European Waste to Biofuel Industries (2025). [Working paper](https://www.chaireeconomieduclimat.org/wp-content/uploads/2025/05/WP-2025-12.pdf) *Submitted*
 
 
 Zakaria Moussa, Benoît Sévi, Arthur Thomas (2021). [Real-time demand in U.S. natural gas price forecasting: the role of temperature data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3880809), USAEE Working Paper No. 21-507, 21 Sep 2021.
