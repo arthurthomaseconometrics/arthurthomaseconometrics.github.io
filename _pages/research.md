@@ -32,7 +32,7 @@ Gilles De Truchis, Arthur Thomas (2025) Laurent series expansion for MA($\infty$
 Gilles De Truchis, Fries Sébastien, Arthur Thomas (2025). Forecasting extreme trajectories using semi-norm
 representations. <a href="/files/DFT_2025_WP_LEDa.pdf" download="DFT_2025_WP_LEDa.pdf">
   [Working Paper]
-</a>
+</a> *Submitted*
 
 Gilles De Truchis Fries Sébastien, Arthur Thomas (2025). Prediction of bubbles in presence of α-stable aggregates moving averages.
 
@@ -43,7 +43,10 @@ Gilles De Truchis, Elena Dumitrescu, Sébastien Fries, Arthur Thomas (2024). Bet
   [web-appendix]
 </a>
 
-Zakaria Moussa, Arthur Thomas (2023). [Identifying Oil Supply News Shocks and Their Effects on the Global Oil Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3812529#), USAEE Working Paper No. 21-490, Jun. 26, 2023.
+Stéphane Auray, Zakaria Moussa, Arthur Thomas (2026). [Reading the Future of Oil: A Noncausal Approach
+to Supply News Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3812529#), USAEE Working Paper No. 21-490, Jan. 13, 2026. <a href="/files/AMT_2026_final.pdf" download="AMT_2026_final.pdf">
+  [Working Paper]
+</a> *Submitted*
 
 **Financial Econometrics**
 
@@ -55,7 +58,7 @@ Ilya Archakov, Yannick Le Pen, Zakaria Moussa, Arthur Thomas (2024). Regime Swit
 **Energy Economics**
 
 
-Olivier Massol, Eduard Civel, Arthur Thomas (2025). Unfair Trade in the Circular Economy? Price Dynamics in Chinese and European Waste to Biofuel Industries (2025). [Working paper](https://www.chaireeconomieduclimat.org/wp-content/uploads/2025/05/WP-2025-12.pdf)
+Olivier Massol, Eduard Civel, Arthur Thomas (2025). Unfair Trade in the Circular Economy? Price Dynamics in Chinese and European Waste to Biofuel Industries (2025). [Working paper](https://www.chaireeconomieduclimat.org/wp-content/uploads/2025/05/WP-2025-12.pdf)*Submitted*
 
 
 Zakaria Moussa, Benoît Sévi, Arthur Thomas (2021). [Real-time demand in U.S. natural gas price forecasting: the role of temperature data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3880809), USAEE Working Paper No. 21-507, 21 Sep 2021.
@@ -65,14 +68,14 @@ Zakaria Moussa, Benoît Sévi, Arthur Thomas (2021). [Real-time demand in U.S. n
 Ongoing works
 =====
 
-Olivier Massol, Eduardo S. Marques, Arthur Thomas (2025). Disentangling Drivers of EU Allowance Prices: A Mixed Causal and Non-Causal Time Series Approach. 
+Eduardo S. Marques,Olivier Massol, Simon Quemin, Arthur Thomas (2026). Decomposing Carbon Prices to Analyze their Determinants: A Causal-Noncausal Application to the EU ETS.
 
 
 Gilles De Truchis, Arthur Thomas, Ludivine Vaudree (2025), Deconvolution and Filtering of Non-Causal Alpha-Stable Processes.
 
-Elena Dumitrescu, Julien Peignon, Arthur Thomas (2025). Tail-aware density forecasting of locally explosive time series: a neural network approach.
+Elena Dumitrescu, Julien Peignon, Arthur Thomas (2026). Tail-aware density forecasting of locally explosive time series: a neural network approach.
 
-Gilles De Truchis, Fries Sébastien, Arthur Thomas (2025). Multivariate seminorm representation for α -stable moving average processes and path prediction. 
+Gilles De Truchis, Fries Sébastien, Arthur Thomas (2026). Multivariate seminorm representation for α -stable moving average processes and path prediction. 
 
 
 
