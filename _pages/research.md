@@ -38,7 +38,7 @@ Gilles De Truchis Fries Sébastien, Arthur Thomas (2025). Prediction of bubbles 
 
 
 Gilles De Truchis, Elena Dumitrescu, Sébastien Fries, Arthur Thomas (2024). Bet on a bubble asset? An optimal portfolio allocation strategy (2024). <a href="/files/DDFT_2024.pdf" download="DDFT_2024.pdf">
-  [paper]
+  [Paper]
 </a> <a href="/files/Appendix_DDFT_2024.pdf" download="Appendix_DDFT_2024.pdf">
   [Online Appendix]
 </a>
@@ -52,7 +52,7 @@ to Supply News Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=38125
 
 
 Ilya Archakov, Yannick Le Pen, Zakaria Moussa, Arthur Thomas (2024). Regime Switching for Dynamic EquiCorrelation. <a href="/files/RSDECO.pdf" download="RSDECO.pdf">
-  [paper]
+  [Paper]
 </a>
 
 **Energy Economics**
