@@ -25,6 +25,11 @@ Working papers
 
 **Non causal econometrics**
 
+Elena Dumitrescu, Julien Peignon, Arthur Thomas (2026). Tail-aware density forecasting of locally explosive time series: a neural network approach.[[Working Paper]](https://arxiv.org/abs/2601.14049)<a href="/files/Appendix_DDFT_2024.pdf" download="Appendix_DDFT_2024.pdf">
+  [Online Appendix]
+</a>
+
+
 Gilles De Truchis, Arthur Thomas (2025) Laurent series expansion for MA($\infty$) representation of mixed causal-noncausal autoregressive processes. <a href="/files/WP2025_06.pdf" download="WP2025_06.pdf">
   [Working Paper]</a>  Revise and resubmit at *Journal of Time Series Analysis*
 
@@ -72,8 +77,6 @@ Eduardo S. Marques,Olivier Massol, Simon Quemin, Arthur Thomas (2026). Decomposi
 
 
 Gilles De Truchis, Arthur Thomas, Ludivine Vaudree (2025), Deconvolution and Filtering of Non-Causal Alpha-Stable Processes.
-
-Elena Dumitrescu, Julien Peignon, Arthur Thomas (2026). Tail-aware density forecasting of locally explosive time series: a neural network approach.
 
 Gilles De Truchis, Fries Sébastien, Arthur Thomas (2026). Multivariate seminorm representation for α -stable moving average processes and path prediction. 
 
