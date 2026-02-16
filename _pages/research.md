@@ -45,7 +45,9 @@ representations. <a href="/files/DFT_2025_WP_LEDa.pdf" download="DFT_2025_WP_LED
   [Working Paper]
 </a> *Submitted*
 
-Gilles De Truchis Fries Sébastien, Arthur Thomas (2025). Prediction of bubbles in presence of α-stable aggregates moving averages.
+Gilles De Truchis Fries Sébastien, Arthur Thomas (2026). Prediction of bubbles in presence of α-stable aggregates moving averages.<a href="/files/WP_2026_02.pdf" download="WP_2026_02.pdf.pdf">
+  [Working Paper]
+</a> *Submitted*
 
 
 Gilles De Truchis, Elena Dumitrescu, Sébastien Fries, Arthur Thomas (2024). Bet on a bubble asset? An optimal portfolio allocation strategy (2024). <a href="/files/DDFT_2024.pdf" download="DDFT_2024.pdf">
@@ -81,10 +83,9 @@ Ongoing works
 
 Eduardo S. Marques,Olivier Massol, Simon Quemin, Arthur Thomas (2026). Decomposing Carbon Prices to Analyze their Determinants: A Causal-Noncausal Application to the EU ETS.
 
-
 Gilles De Truchis, Arthur Thomas, Ludivine Vaudree (2025), Deconvolution and Filtering of Non-Causal Alpha-Stable Processes.
 
-Gilles De Truchis, Fries Sébastien, Arthur Thomas (2026). Multivariate seminorm representation for α -stable moving average processes and path prediction. 
+Gilles De Truchis, Fries Sébastien, Arthur Thomas (2026). Multivariate seminorm representation for α-stable moving average processes and path prediction. 
 
 
 
