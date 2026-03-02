@@ -47,7 +47,10 @@ representations. <a href="/files/DFT_2025_WP_LEDa.pdf" download="DFT_2025_WP_LED
 
 Gilles De Truchis Fries Sébastien, Arthur Thomas (2026). Prediction of bubbles in presence of α-stable aggregates moving averages.<a href="/files/WP_2026_02.pdf" download="WP_2026_02.pdf.pdf">
   [Working Paper]
-</a> 
+</a> <a href="/files/DFT_online_supplement.pdf" download="DFT_online_supplement.pdf">
+  [Online Supplement]
+</a>
+
 
 
 Gilles De Truchis, Elena Dumitrescu, Sébastien Fries, Arthur Thomas (2024). Bet on a bubble asset? An optimal portfolio allocation strategy (2024). <a href="/files/DDFT_2024.pdf" download="DDFT_2024.pdf">
