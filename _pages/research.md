@@ -18,11 +18,6 @@ Bardon P., Massol O., Thomas A. (2025). [Greening Aviation with Sustainable Avia
 Thomas A., Massol O., Sévi B. (2022), [How are Day-ahead Prices Informative for Predicting the Next Day's Consumption of Natural Gas? Evidence from France](https://www.iaee.org/energyjournal/article/3875), The Energy Journal, vol. 43, n°5
 
 
-Peer-reviewed proceedings in international conferences
-=====
-
-Peignon, J., Rossi, F., Thomas, A. (2026), [Time Series Forecasting in the Presence of Explosive Bubbles](https://www.esann.org), Proceedings of ESANN 2026 (European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning)
-
 
 Working papers
 =====
