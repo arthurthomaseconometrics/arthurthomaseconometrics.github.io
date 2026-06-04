@@ -18,7 +18,7 @@ Bardon P., Massol O., Thomas A. (2025). [Greening Aviation with Sustainable Avia
 Thomas A., Massol O., Sévi B. (2022), [How are Day-ahead Prices Informative for Predicting the Next Day's Consumption of Natural Gas? Evidence from France](https://www.iaee.org/energyjournal/article/3875), The Energy Journal, vol. 43, n°5
 
 Gilles De Truchis, Arthur Thomas (2026) Laurent series expansion for MA($\infty$) representation of mixed causal-noncausal autoregressive processes. <a href="/files/WP2025_06.pdf" download="WP2025_06.pdf">
-  [Working Paper]</a>  forthcoming at *Journal of Time Series Analysis*
+  [Working Paper]</a>  *forthcoming at Journal of Time Series Analysis*
 
 
 Working papers
@@ -36,7 +36,7 @@ Elena Dumitrescu, Julien Peignon, Arthur Thomas (2026). Tail-aware density forec
 Gilles De Truchis, Fries Sébastien, Arthur Thomas (2025). Forecasting extreme trajectories using semi-norm
 representations. <a href="/files/DFT_2025_WP_LEDa.pdf" download="DFT_2025_WP_LEDa.pdf">
   [Working Paper]
-</a> Reject and Resubmit at *Bernoulli*
+</a> *Reject and Resubmit at Bernoulli*
 
 Gilles De Truchis Fries Sébastien, Arthur Thomas (2026). Prediction of bubbles in presence of α-stable aggregates moving averages. <a href="/files/DFT_online_supplement.pdf" download="DFT_online_supplement.pdf">
   [Online Supplement]
