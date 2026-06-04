@@ -17,6 +17,8 @@ Bardon P., Massol O., Thomas A. (2025). [Greening Aviation with Sustainable Avia
 
 Thomas A., Massol O., Sévi B. (2022), [How are Day-ahead Prices Informative for Predicting the Next Day's Consumption of Natural Gas? Evidence from France](https://www.iaee.org/energyjournal/article/3875), The Energy Journal, vol. 43, n°5
 
+Gilles De Truchis, Arthur Thomas (2026) Laurent series expansion for MA($\infty$) representation of mixed causal-noncausal autoregressive processes. <a href="/files/WP2025_06.pdf" download="WP2025_06.pdf">
+  [Working Paper]</a>  forthcoming at *Journal of Time Series Analysis*
 
 
 Working papers
@@ -28,29 +30,23 @@ Working papers
 Elena Dumitrescu, Julien Peignon, Arthur Thomas (2026). Tail-aware density forecasting of locally explosive time series: a neural network approach. <a href="/files/DPT_2026.pdf" download="DPT_2026.pdf">
   [Working Paper]</a>[[Arxiv link]](https://arxiv.org/abs/2601.14049)<a href="/files/DPT_2026_supp.pdf" download="DPT_2026_supp.pdf">
   [Online Appendix]
-</a>
-
-
-Gilles De Truchis, Arthur Thomas (2025) Laurent series expansion for MA($\infty$) representation of mixed causal-noncausal autoregressive processes. <a href="/files/WP2025_06.pdf" download="WP2025_06.pdf">
-  [Working Paper]</a>  Revise and resubmit at *Journal of Time Series Analysis*
+</a>*Submitted*
 
 
 Gilles De Truchis, Fries Sébastien, Arthur Thomas (2025). Forecasting extreme trajectories using semi-norm
 representations. <a href="/files/DFT_2025_WP_LEDa.pdf" download="DFT_2025_WP_LEDa.pdf">
   [Working Paper]
-</a> *Submitted*
+</a> Reject and Resubmit at *Bernoulli*
 
 Gilles De Truchis Fries Sébastien, Arthur Thomas (2026). Prediction of bubbles in presence of α-stable aggregates moving averages. <a href="/files/DFT_online_supplement.pdf" download="DFT_online_supplement.pdf">
   [Online Supplement]
 </a>
 
-
-
 Gilles De Truchis, Elena Dumitrescu, Sébastien Fries, Arthur Thomas (2024). Bet on a bubble asset? An optimal portfolio allocation strategy (2024). <a href="/files/DDFT_2024.pdf" download="DDFT_2024.pdf">
   [Paper]
 </a> <a href="/files/Appendix_DDFT_2024.pdf" download="Appendix_DDFT_2024.pdf">
   [Online Appendix]
-</a>
+</a> *Submitted*
 
 Stéphane Auray, Zakaria Moussa, Arthur Thomas (2026). [Reading the Future of Oil: A Noncausal Approach
 to Supply News Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3812529#), USAEE Working Paper No. 21-490, Jan. 13, 2026. <a href="/files/AMT_2026_final.pdf" download="AMT_2026_final.pdf">
