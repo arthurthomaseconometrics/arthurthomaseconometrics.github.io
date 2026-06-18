@@ -18,7 +18,8 @@ Bardon P., Massol O., Thomas A. (2025). [Greening Aviation with Sustainable Avia
 Thomas A., Massol O., Sévi B. (2022), [How are Day-ahead Prices Informative for Predicting the Next Day's Consumption of Natural Gas? Evidence from France](https://www.iaee.org/energyjournal/article/3875), The Energy Journal, vol. 43, n°5
 
 Gilles De Truchis, Arthur Thomas (2026) Laurent series expansion for MA($\infty$) representation of mixed causal-noncausal autoregressive processes. <a href="/files/WP2025_06.pdf" download="WP2025_06.pdf">
-  [Working Paper]</a>  *forthcoming at Journal of Time Series Analysis*
+  [Working Paper]</a>  *forthcoming at Journal of Time Series Analysis* <a href="https://onlinelibrary.wiley.com/doi/10.1111/jtsa.70070" >
+  [link]</a>
 
 
 Working papers
@@ -38,20 +39,24 @@ representations. <a href="/files/DFT_2025_WP_LEDa.pdf" download="DFT_2025_WP_LED
   [Working Paper]
 </a> *Reject and Resubmit at Bernoulli*
 
-Gilles De Truchis Fries Sébastien, Arthur Thomas (2026). Prediction of bubbles in presence of α-stable aggregates moving averages. <a href="/files/DFT_online_supplement.pdf" download="DFT_online_supplement.pdf">
+Gilles De Truchis Fries Sébastien, Arthur Thomas (2026). Prediction of bubbles in presence of α-stable aggregates moving averages. <a href="/files/main_v15.pdf" download="main_v15.pdf">
+  [Working Paper]
+</a> <a href="/files/online_supplement2.pdf" download="online_supplement2.pdf">
   [Online Supplement]
 </a>
 
 Gilles De Truchis, Elena Dumitrescu, Sébastien Fries, Arthur Thomas (2024). Bet on a bubble asset? An optimal portfolio allocation strategy (2024). <a href="/files/DDFT_2024.pdf" download="DDFT_2024.pdf">
-  [Paper]
+  [Working Paper]
 </a> <a href="/files/Appendix_DDFT_2024.pdf" download="Appendix_DDFT_2024.pdf">
   [Online Appendix]
 </a> *Submitted*
 
 Stéphane Auray, Zakaria Moussa, Arthur Thomas (2026). [Reading the Future of Oil: A Noncausal Approach
-to Supply News Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3812529#), USAEE Working Paper No. 21-490, Jan. 13, 2026. <a href="/files/AMT_2026_final.pdf" download="AMT_2026_final.pdf">
+to Supply News Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3812529#), USAEE Working Paper No. 21-490, Jan. 13, 2026. <a href="/files/mainpaper.pdf" download="mainpaper.pdf">
   [Working Paper]
-</a> *Submitted*
+</a> <a href="/files/appendix.pdf" download="appendix.pdf">
+  [Online Appendix]
+</a>*Submitted*
 
 **Financial Econometrics**
 
