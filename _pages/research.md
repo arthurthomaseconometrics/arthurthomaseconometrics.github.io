@@ -8,6 +8,9 @@ author_profile: true
 Publications
 =====
 
+Gilles De Truchis, Arthur Thomas (2026) Laurent series expansion for MA($\infty$) representation of mixed causal-noncausal autoregressive processes. <a href="/files/WP2025_06.pdf" download="WP2025_06.pdf">
+  [Working Paper]</a>  *forthcoming at Journal of Time Series Analysis* <a href="https://onlinelibrary.wiley.com/doi/10.1111/jtsa.70070" >
+  [link]</a>
 
 Bruguet, M., Thomas, A., & Le Saout, R. (2025). [Weather Effects in Energy Seasonal Adjustment : An Application to France Energy Consumption](https://journals.sagepub.com/doi/10.1177/01956574251330845) The Energy Journal, vol. 46, n°5
 
@@ -17,9 +20,6 @@ Bardon P., Massol O., Thomas A. (2025). [Greening Aviation with Sustainable Avia
 
 Thomas A., Massol O., Sévi B. (2022), [How are Day-ahead Prices Informative for Predicting the Next Day's Consumption of Natural Gas? Evidence from France](https://www.iaee.org/energyjournal/article/3875), The Energy Journal, vol. 43, n°5
 
-Gilles De Truchis, Arthur Thomas (2026) Laurent series expansion for MA($\infty$) representation of mixed causal-noncausal autoregressive processes. <a href="/files/WP2025_06.pdf" download="WP2025_06.pdf">
-  [Working Paper]</a>  *forthcoming at Journal of Time Series Analysis* <a href="https://onlinelibrary.wiley.com/doi/10.1111/jtsa.70070" >
-  [link]</a>
 
 
 Working papers
