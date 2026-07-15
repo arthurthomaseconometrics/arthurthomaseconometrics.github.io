@@ -45,9 +45,9 @@ Gilles De Truchis Fries Sébastien, Arthur Thomas (2026). Prediction of bubbles 
   [Online Supplement]
 </a>
 
-Gilles De Truchis, Elena Dumitrescu, Sébastien Fries, Arthur Thomas (2024). Bet on a bubble asset? An optimal portfolio allocation strategy (2024). <a href="/files/DDFT_2024.pdf" download="DDFT_2024.pdf">
+Gilles De Truchis, Elena Dumitrescu, Sébastien Fries, Arthur Thomas (2026). Navigating Speculative Bubbles: A Higher-Moment Approach to Optimal Asset Allocation (2026). <a href="/files/MARportfolio.pdf" download="MARportfolio.pdf">
   [Working Paper]
-</a> <a href="/files/Appendix_DDFT_2024.pdf" download="Appendix_DDFT_2024.pdf">
+</a> <a href="/files/Appendix_MAR_portfolio.pdf" download="Appendix_MAR_portfolio.pdf">
   [Online Appendix]
 </a> *Submitted*
 
