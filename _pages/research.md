@@ -18,7 +18,7 @@ Bruguet, M., Thomas, A., & Le Saout, R. (2025). [Weather Effects in Energy Seaso
 Bardon P., Massol O., Thomas A. (2025). [Greening Aviation with Sustainable Aviation Fuels: Insights from decarbonization scenarios.](https://www.sciencedirect.com/science/article/pii/S0301479724039306) Journal of Environmental Management, vol. 374.
 
 
-Thomas A., Massol O., Sévi B. (2022), [How are Day-ahead Prices Informative for Predicting the Next Day's Consumption of Natural Gas? Evidence from France](https://www.iaee.org/energyjournal/article/3875), The Energy Journal, vol. 43, n°5
+Thomas A., Massol O., Sévi B. (2022), [How are Day-ahead Prices Informative for Predicting the Next Day's Consumption of Natural Gas? Evidence from France](https://journals.sagepub.com/doi/abs/10.5547/01956574.43.5.atho), The Energy Journal, vol. 43, n°5
 
 
 
