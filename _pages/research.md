@@ -39,13 +39,13 @@ representations. <a href="/files/DFT_2025_WP_LEDa.pdf" download="DFT_2025_WP_LED
   [Working Paper]
 </a> *Reject and Resubmit at Bernoulli*
 
-Gilles De Truchis Fries Sébastien, Arthur Thomas (2026). Prediction of bubbles in presence of α-stable aggregates moving averages. <a href="/files/main_v15.pdf" download="main_v15.pdf">
+Gilles De Truchis Fries Sébastien, Arthur Thomas (2026). Prediction of bubbles in presence of α-stable aggregates moving averages. <a href="/files/main_v24.pdf" download="main_v15.pdf">
   [Working Paper]
-</a> <a href="/files/online_supplement2.pdf" download="online_supplement2.pdf">
+</a> <a href="/files/online_supplement3.pdf" download="online_supplement3.pdf">
   [Online Supplement]
 </a>
 
-Gilles De Truchis, Elena Dumitrescu, Sébastien Fries, Arthur Thomas (2026). Navigating Speculative Bubbles: A Higher-Moment Approach to Optimal Asset Allocation (2026). <a href="/files/MARportfolio.pdf" download="MARportfolio.pdf">
+Gilles De Truchis, Elena Dumitrescu, Sébastien Fries, Arthur Thomas (2026). Navigating Speculative Bubbles: A Higher-Moment Approach to Optimal Asset Allocation (2026). <a href="/files/WP_LED.pdf" download="WP_LED.pdf">
   [Working Paper]
 </a> <a href="/files/Appendix_MAR_portfolio.pdf" download="Appendix_MAR_portfolio.pdf">
   [Online Appendix]
