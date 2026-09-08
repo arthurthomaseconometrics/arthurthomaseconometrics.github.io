@@ -36,7 +36,7 @@ representations. <a href="/files/DFT_2025_WP_LEDa.pdf" download="DFT_2025_WP_LED
   [Working Paper]
 </a> *Reject and Resubmit at Bernoulli*
 
-Gilles De Truchis Fries Sébastien, Arthur Thomas (2026). Prediction of bubbles in presence of α-stable aggregates moving averages. <a href="/files/main_v24.pdf" download="main_v15.pdf">
+Gilles De Truchis Fries Sébastien, Arthur Thomas (2026). Prediction of bubbles in presence of α-stable aggregates moving averages. <a href="/files/main_v24.pdf" download="main_v24.pdf">
   [Working Paper]
 </a> <a href="/files/online_supplement3.pdf" download="online_supplement3.pdf">
   [Online Supplement]
