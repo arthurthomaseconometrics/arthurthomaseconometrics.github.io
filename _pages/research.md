@@ -28,7 +28,7 @@ Working papers
 
 **Non causal econometrics**
 
-Elena Dumitrescu, Julien Peignon, Arthur Thomas (2026). Tail-aware density forecasting of locally explosive time series: a neural network approach. </a>[[Arxiv link]](https://arxiv.org/abs/2601.14049)</a> *Submitted*
+Elena Dumitrescu, Julien Peignon, Arthur Thomas (2026). Tail-aware density forecasting of locally explosive time series: a neural network approach. [[Arxiv link]](https://arxiv.org/abs/2601.14049) *Submitted*
 
 
 Gilles De Truchis, Fries Sébastien, Arthur Thomas (2025). Forecasting extreme trajectories using semi-norm
