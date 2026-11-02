@@ -8,7 +8,7 @@ author_profile: true
 Publications
 =====
 
-Gilles De Truchis, Arthur Thomas (2026) Laurent series expansion for MA($\infty$) representation of mixed causal-noncausal autoregressive processes. <a href="/files/WP2025_06.pdf" download="WP2025_06.pdf">
+Gilles De Truchis, Arthur Thomas (2026) Laurent series expansion for MA($\infty$) representation of mixed causal-noncausal autoregressive processes. <a href="/files/DeTruchis_Thomas_2026_JTSA_Laurent_Series_MA_Representation.pdf" download="DeTruchis_Thomas_2026_JTSA_Laurent_Series_MA_Representation.pdf">
   [Working Paper]</a>  *forthcoming at Journal of Time Series Analysis* <a href="https://onlinelibrary.wiley.com/doi/10.1111/jtsa.70070" >
   [link]</a>
 
@@ -28,29 +28,31 @@ Working papers
 
 **Non causal econometrics**
 
-Elena Dumitrescu,  Julien Peignon, Arthur Thomas (2026). Tail-aware density forecasting of locally explosive time series: a neural network approach. [[Arxiv link]](https://arxiv.org/abs/2601.14049) *Under Review*
+Elena Dumitrescu,  Julien Peignon, Arthur Thomas (2026). Tail-aware density forecasting of locally explosive time series: a neural network approach. [[Working Paper]](/files/Dumitrescu_Peignon_Thomas_2026_Tail_Aware_Density_Forecasting.pdf) [[arXiv]](https://arxiv.org/abs/2601.14049) [[Online Appendix]](/files/Dumitrescu_Peignon_Thomas_2026_Tail_Aware_Density_Forecasting_Appendix.pdf) [[Replication Code]](https://github.com/JulienPeignon/MARMA-density-forecasting) *Under Review*
 
 Gilles De Truchis, Fries Sébastien, Arthur Thomas (2025). Forecasting extreme trajectories using semi-norm
-representations. <a href="/files/DFT_2025_WP_LEDa.pdf" download="DFT_2025_WP_LEDa.pdf">
+representations. <a href="/files/DeTruchis_Fries_Thomas_2025_Forecasting_Extreme_Trajectories.pdf" download="DeTruchis_Fries_Thomas_2025_Forecasting_Extreme_Trajectories.pdf">
   [Working Paper]
+</a> <a href="/files/DeTruchis_Fries_Thomas_2025_Forecasting_Extreme_Trajectories_supplement.pdf" download="DeTruchis_Fries_Thomas_2025_Forecasting_Extreme_Trajectories_supplement.pdf">
+  [Online Supplement]
 </a> *Resubmited at Bernoulli*
 
-Gilles De Truchis Fries Sébastien, Arthur Thomas (2026). Prediction of bubbles in presence of α-stable aggregates moving averages. <a href="/files/main_v24.pdf" download="main_v24.pdf">
+Gilles De Truchis Fries Sébastien, Arthur Thomas (2026). Prediction of bubbles in presence of α-stable aggregates moving averages. <a href="/files/DeTruchis_Fries_Thomas_2026_Prediction_of_Bubbles.pdf" download="DeTruchis_Fries_Thomas_2026_Prediction_of_Bubbles.pdf">
   [Working Paper]
-</a> <a href="/files/online_supplement3.pdf" download="online_supplement3.pdf">
+</a> <a href="/files/DeTruchis_Fries_Thomas_2026_Prediction_of_Bubbles_Appendix.pdf" download="DeTruchis_Fries_Thomas_2026_Prediction_of_Bubbles_Appendix.pdf">
   [Online Supplement]
 </a>
 
-Gilles De Truchis, Elena Dumitrescu, Sébastien Fries, Arthur Thomas (2026). Navigating Speculative Bubbles: A Higher-Moment Approach to Optimal Asset Allocation (2026). <a href="/files/WP_LED.pdf" download="WP_LED.pdf">
+Gilles De Truchis, Elena Dumitrescu, Sébastien Fries, Arthur Thomas (2026). Navigating Speculative Bubbles: A Higher-Moment Approach to Optimal Asset Allocation (2026). <a href="/files/DeTruchis_Dumitrescu_Fries_Thomas_2026_Navigating_Speculative_Bubbles.pdf" download="DeTruchis_Dumitrescu_Fries_Thomas_2026_Navigating_Speculative_Bubbles.pdf">
   [Working Paper]
-</a> <a href="/files/Appendix_MAR_portfolio.pdf" download="Appendix_MAR_portfolio.pdf">
+</a> <a href="/files/DeTruchis_Dumitrescu_Fries_Thomas_2026_Navigating_Speculative_Bubbles_Appendix.pdf" download="DeTruchis_Dumitrescu_Fries_Thomas_2026_Navigating_Speculative_Bubbles_Appendix.pdf">
   [Online Appendix]
 </a> *Under Review*
 
 Stéphane Auray, Zakaria Moussa, Arthur Thomas (2026). [Reading the Future of Oil: A Noncausal Approach
-to Supply News Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3812529#), USAEE Working Paper No. 21-490, Jan. 13, 2026. <a href="/files/mainpaper.pdf" download="mainpaper.pdf">
+to Supply News Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3812529#), USAEE Working Paper No. 21-490, Jan. 13, 2026. <a href="/files/Auray_Moussa_Thomas_2026_Reading_the_Future_of_Oil.pdf" download="Auray_Moussa_Thomas_2026_Reading_the_Future_of_Oil.pdf">
   [Working Paper]
-</a> <a href="/files/appendix.pdf" download="appendix.pdf">
+</a> <a href="/files/Auray_Moussa_Thomas_2026_Reading_the_Future_of_Oil_Appendix.pdf" download="Auray_Moussa_Thomas_2026_Reading_the_Future_of_Oil_Appendix.pdf">
   [Online Appendix]
 </a>*Under Review*
 
@@ -74,7 +76,8 @@ Zakaria Moussa, Benoît Sévi, Arthur Thomas (2021). [Real-time demand in U.S. n
 Ongoing works
 =====
 
-Julien Peignon, Arthur Thomas (2026) Geometric ergodicity and β-mixing of mixed causal–noncausal processes. 
+Julien Peignon, Arthur Thomas (2026) Geometric ergodicity and β-mixing of mixed causal–noncausal processes. <a href="/files/LlorensTerrazas_Peignon_Thomas_2026_Geometric_Beta_Mixing.pdf" download="LlorensTerrazas_Peignon_Thomas_2026_Geometric_Beta_Mixing.pdf">
+  [Working Paper]</a>
 
 Gilles De Truchis, Fries Sébastien, Arthur Thomas (2026). Multivariate seminorm representation for α-stable moving average processes and path prediction. 
 
