@@ -33,7 +33,7 @@ Elena Dumitrescu,  Julien Peignon, Arthur Thomas (2026). Tail-aware density fore
 Gilles De Truchis, Fries Sébastien, Arthur Thomas (2025). Forecasting extreme trajectories using semi-norm
 representations. <a href="/files/DFT_2025_WP_LEDa.pdf" download="DFT_2025_WP_LEDa.pdf">
   [Working Paper]
-</a> *Reject and Resubmit at Bernoulli*
+</a> *Resubmited at Bernoulli*
 
 Gilles De Truchis Fries Sébastien, Arthur Thomas (2026). Prediction of bubbles in presence of α-stable aggregates moving averages. <a href="/files/main_v24.pdf" download="main_v24.pdf">
   [Working Paper]
@@ -74,7 +74,7 @@ Zakaria Moussa, Benoît Sévi, Arthur Thomas (2021). [Real-time demand in U.S. n
 Ongoing works
 =====
 
-Julien Peignon, Jordi Llorens-Terrazas, Arthur Thomas (2026) Geometric ergodicity and β-mixing of mixed causal–noncausal processes. 
+Julien Peignon, Arthur Thomas (2026) Geometric ergodicity and β-mixing of mixed causal–noncausal processes. 
 
 Gilles De Truchis, Fries Sébastien, Arthur Thomas (2026). Multivariate seminorm representation for α-stable moving average processes and path prediction. 
 
