@@ -76,8 +76,7 @@ Zakaria Moussa, Benoît Sévi, Arthur Thomas (2021). [Real-time demand in U.S. n
 Ongoing works
 =====
 
-Julien Peignon, Arthur Thomas (2026) Geometric ergodicity and β-mixing of mixed causal–noncausal processes. <a href="/files/LlorensTerrazas_Peignon_Thomas_2026_Geometric_Beta_Mixing.pdf" download="LlorensTerrazas_Peignon_Thomas_2026_Geometric_Beta_Mixing.pdf">
-  [Working Paper]</a>
+Julien Peignon, Arthur Thomas (2026) Geometric ergodicity and β-mixing of mixed causal–noncausal processes.
 
 Gilles De Truchis, Fries Sébastien, Arthur Thomas (2026). Multivariate seminorm representation for α-stable moving average processes and path prediction. 
 
