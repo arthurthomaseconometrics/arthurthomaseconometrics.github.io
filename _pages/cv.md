@@ -9,3 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="/files/CV_Thomas_Arthur_2026.pdf" download="CV">
+  <img src="/files/CV_Thomas_Arthur_2026.pdf" alt="CV">
+</a>
