@@ -37,7 +37,7 @@ representations. <a href="/files/DeTruchis_Fries_Thomas_2025_Forecasting_Extreme
   [Online Supplement]
 </a> *Resubmited at Bernoulli*
 
-Gilles De Truchis Fries Sébastien, Arthur Thomas (2026). Prediction of bubbles in presence of α-stable aggregates moving averages. <a href="/files/DeTruchis_Fries_Thomas_2026_Prediction_of_Bubbles.pdf" download="DeTruchis_Fries_Thomas_2026_Prediction_of_Bubbles.pdf">
+Gilles De Truchis Fries Sébastien, Arthur Thomas (2026). Estimation and prediction of bubbles with α-stable aggregates of moving averages. <a href="/files/DeTruchis_Fries_Thomas_2026_Prediction_of_Bubbles.pdf" download="DeTruchis_Fries_Thomas_2026_Prediction_of_Bubbles.pdf">
   [Working Paper]
 </a> <a href="/files/DeTruchis_Fries_Thomas_2026_Prediction_of_Bubbles_Appendix.pdf" download="DeTruchis_Fries_Thomas_2026_Prediction_of_Bubbles_Appendix.pdf">
   [Online Supplement]
