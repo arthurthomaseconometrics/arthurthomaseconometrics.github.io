@@ -43,7 +43,7 @@ Gilles De Truchis Fries Sébastien, Arthur Thomas (2026). Prediction of bubbles 
   [Online Supplement]
 </a> <a href="https://github.com/arthurthomaseconometrics/AggregatedMAR">
   [Replication Package]
-</a>
+</a> *Submitted*
 
 Gilles De Truchis, Elena Dumitrescu, Sébastien Fries, Arthur Thomas (2026). Navigating Speculative Bubbles: A Higher-Moment Approach to Optimal Asset Allocation (2026). <a href="/files/DeTruchis_Dumitrescu_Fries_Thomas_2026_Navigating_Speculative_Bubbles.pdf" download="DeTruchis_Dumitrescu_Fries_Thomas_2026_Navigating_Speculative_Bubbles.pdf">
   [Working Paper]
