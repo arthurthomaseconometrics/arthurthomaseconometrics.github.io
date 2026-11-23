@@ -49,7 +49,7 @@ Gilles De Truchis, Elena Dumitrescu, Sébastien Fries, Arthur Thomas (2026). Nav
   [Working Paper]
 </a> <a href="/files/DeTruchis_Dumitrescu_Fries_Thomas_2026_Navigating_Speculative_Bubbles_Appendix.pdf" download="DeTruchis_Dumitrescu_Fries_Thomas_2026_Navigating_Speculative_Bubbles_Appendix.pdf">
   [Online Appendix]
-</a> *Under Review*
+</a> 
 
 Stéphane Auray, Zakaria Moussa, Arthur Thomas (2026). [Reading the Future of Oil: A Noncausal Approach
 to Supply News Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3812529#), USAEE Working Paper No. 21-490, Jan. 13, 2026. <a href="/files/Auray_Moussa_Thomas_2026_Reading_the_Future_of_Oil.pdf" download="Auray_Moussa_Thomas_2026_Reading_the_Future_of_Oil.pdf">
