@@ -61,7 +61,7 @@ to Supply News Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=38125
 **Machine Learning**
 
 
-Fabrice Rossi, Julien Peignon, Arthur Thomas (2026). Structural Risk Minimization under the Forecaster's Risk.
+Julien Peignon, Fabrice Rossi, Arthur Thomas (2026). Structural Risk Minimization under the Forecaster's Risk.
 
 **Financial Econometrics**
 
