@@ -58,6 +58,11 @@ to Supply News Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=38125
   [Online Appendix]
 </a>*Under Review*
 
+**Machine Learning**
+
+
+Fabrice Rossi, Julien Peignon, Arthur Thomas (2026). Structural Risk Minimization under the Forecaster's Risk.
+
 **Financial Econometrics**
 
 
@@ -67,6 +72,8 @@ Ilya Archakov, Yannick Le Pen, Zakaria Moussa, Arthur Thomas (2024). Regime Swit
 
 **Energy Economics**
 
+
+Aymen Bahrouni, Patrice Geoffron, Arthur Thomas (2026). From Greenium to Energy Shock: The Changing Impact of Climate Media on Asset Prices. *Minor revision at Finance*
 
 Olivier Massol, Edouard Civel, Arthur Thomas (2025). Unfair Trade in the Circular Economy? Price Dynamics in Chinese and European Waste to Biofuel Industries (2025). [[Working paper]](https://www.chaireeconomieduclimat.org/wp-content/uploads/2025/05/WP-2025-12.pdf) *Revise and Resubmit at International Economics*
 
